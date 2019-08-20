@@ -1,3 +1,4 @@
+package com.randy.java;
 //examples of array manipulations
 
 public class ArrayExamples
