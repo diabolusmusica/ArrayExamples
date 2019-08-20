@@ -1,4 +1,5 @@
 //examples of array manipulations
+// Randy Palmer, update java from git website.
 
 public class ArrayExamples
 {	public static void main(String[] args)
